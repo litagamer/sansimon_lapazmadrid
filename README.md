@@ -1,53 +1,32 @@
-# sansimon_lapazmadrid
-Asociación sin ánimo de lucro que preserva y difunde el folklore boliviano mediante la danza de los Caporales. Como filial oficial de la Fraternidad Folklórica y Cultural Caporales Universitarios San Simón La Paz en Madrid, promovemos la cultura, identidad y tradición con orgullo y compromiso.
-# 🇧🇴 Caporales Universitarios San Simón La Paz - Filial Madrid
+# Caporales Universitarios San Simón La Paz - Filial Madrid
 
-<p align="center">
-  <img src="logo.png" alt="Logo San Simón Madrid" width="200" style="border-radius:50%">
-</p>
+Este repositorio contiene la página web oficial de la **Filial Madrid** de los Caporales Universitarios San Simón La Paz.  
+La web está diseñada para mostrar la historia, tradición, galería de fotos y redes sociales de la fraternidad.
 
-## ✨ Sobre nosotros
-La **Fraternidad Folklórica y Cultural Caporales Universitarios San Simón** fue fundada en La Paz – Bolivia y hoy cuenta con presencia internacional.  
-La **Filial Madrid**, creada por **José A. Zelada (Alex Guty)**, mantiene viva la tradición en Europa.  
+## 🌐 URL del sitio
+[https://litagamer.github.io/sansimon_lapazmadrid/](https://litagamer.github.io/sansimon_lapazmadrid/)
 
-Actualmente contamos también con filiales en:  
-🇫🇷 París (Francia) | 🇪🇸 Bilbao y Barcelona (España)  
+## 📂 Estructura de archivos
 
----
+- `index.html` → Página principal
+- `logo.png` → Logo de la filial
+- `foto1.jpg`, `foto2.jpg` → Imágenes de la galería
+- README.md → Información del proyecto
 
-## 🌍 Nuestra misión
-Preservar y difundir el **folklore boliviano** a través de la danza de los **Caporales**, transmitiendo cultura, identidad y orgullo a las nuevas generaciones.  
+## 📌 Características
 
----
+- Menú superior fijo y navegación por secciones (Inicio, Sobre Nosotros, Galería, Redes)
+- Sección "Sobre Nosotros" con información de la filial
+- Galería de fotos
+- Botones de redes sociales con iconos (Facebook, Instagram, TikTok, WhatsApp)
+- Diseño responsivo para móviles y tablet
+- Cabecera y footer con fondo azul institucional
+- Scroll suave al navegar entre secciones
 
-## 📸 Galería
-Algunas presentaciones de nuestra filial Madrid:  
+## 📤 Cómo desplegar en GitHub Pages
 
-<p align="center">
-  <img src="foto1.jpg" alt="Presentación San Simón Madrid" width="300">
-  <img src="foto2.jpg" alt="Danza San Simón Madrid" width="300">
-</p>
-
----
-
-## 🔗 Enlaces oficiales
-🌐 Página web (GitHub Pages):  
-👉 [Caporales San Simón Madrid](https://TU-USUARIO.github.io/sansimon-madrid/)  
-
-📱 Redes sociales:  
-- [Facebook Filial Madrid](https://www.facebook.com/p/Caporales-San-Sim%C3%B3n-La-Paz-Madrid-100038549029816/?locale=es_LA)  
-
-- [Facebook Universitarios Madrid](https://www.facebook.com/p/Caporales-Universitarios-San-Sim%C3%B3n-La-Paz-Madrid-100081003894603/)  
-- [Instagram](https://www.instagram.com/sansimon_lapazmadrid/)  
-- [TikTok](https://www.tiktok.com/@sansimonlapazmadrid)  
-- [WhatsApp Directo](https://wa.me/34680778166)  
-
----
-
-## 📞 Contacto
-📍 Madrid – España  
-📲 WhatsApp: **+34 680 778 166**
-
----
-
-### © 2025 Caporales Universitarios San Simón La Paz – Filial Madrid
+1. Subir todos los archivos al repositorio.
+2. Ir a **Settings → Pages**.
+3. Seleccionar rama `main` y carpeta `/root`.
+4. Guardar cambios y esperar unos segundos.
+5. Acceder a tu web en `https://TU-USUARIO.github.io/NOMBRE-REPO/`
