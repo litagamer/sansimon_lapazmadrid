@@ -36,7 +36,7 @@ Algunas presentaciones de nuestra filial Madrid:
 
 📱 Redes sociales:  
 - [Facebook Filial Madrid](https://www.facebook.com/p/Caporales-San-Sim%C3%B3n-La-Paz-Madrid-100038549029816/?locale=es_LA)  
-- [Facebook Filial España](https://www.facebook.com/p/Caporales-San-Sim%C3%B3n-La-Paz-Filial-Espa%C3%B1a-100041619836104/)  
+
 - [Facebook Universitarios Madrid](https://www.facebook.com/p/Caporales-Universitarios-San-Sim%C3%B3n-La-Paz-Madrid-100081003894603/)  
 - [Instagram](https://www.instagram.com/sansimon_lapazmadrid/)  
 - [TikTok](https://www.tiktok.com/@sansimonlapazmadrid)  
